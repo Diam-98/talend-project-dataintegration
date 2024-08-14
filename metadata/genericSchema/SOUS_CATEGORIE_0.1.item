@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_VMC0cFlsEe-YrZ8AMy3HFg" name="repository.metadataGenericSchema" dataPackage="_VMC0cVlsEe-YrZ8AMy3HFg"/>
+  <TalendMetadata:GenericPackage xmi:id="_VMC0cVlsEe-YrZ8AMy3HFg" name="repository.metadataGenericSchema" dataManager="_VMC0cFlsEe-YrZ8AMy3HFg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_VMC0cllsEe-YrZ8AMy3HFg" id="_MNBrAFlsEe-YrZ8AMy3HFg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VMC0c1lsEe-YrZ8AMy3HFg" name="CD_SOUS_CATEGORIE" label="CD_SOUS_CATEGORIE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VMC0dFlsEe-YrZ8AMy3HFg" name="LB_SOUS_CATEGORIE" label="LB_SOUS_CATEGORIE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VMC0dVlsEe-YrZ8AMy3HFg" name="CD_CATEGORIE" label="CD_CATEGORIE" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

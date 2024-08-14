@@ -1,0 +1,6 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_4=>" expression="&quot;Donnee en doubles&quot;">
+  <variables name="row6.CD_CATEGORIE" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row6.LB_CATEGORIE" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row6.NUM_LIGNE" value="null" talendType="id_Integer" nullable="true"/>
+</expression:EMFExpression>
