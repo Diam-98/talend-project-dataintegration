@@ -242,7 +242,7 @@
           <initialValue xsi:type="relational:TdExpression" xmi:id="_gTejQ1lpEe-YrZ8AMy3HFg" language="COLUMN_DEF"/>
           <sqlDataType xmi:id="_gTejRFlpEe-YrZ8AMy3HFg" name="VARCHAR" numericPrecisionRadix="10" javaDataType="12"/>
         </feature>
-        <feature xsi:type="relational:TdColumn" xmi:id="_gTejRVlpEe-YrZ8AMy3HFg" name="CD_PRODUIT" label="CD_PRODUIT" length="50" sourceType="VARCHAR" talendType="id_String" nullable="false">
+        <feature xsi:type="relational:TdColumn" xmi:id="_gTejRVlpEe-YrZ8AMy3HFg" name="CD_PRODUIT" label="CD_PRODUIT" length="50" sourceType="VARCHAR" talendType="id_String" key="true" nullable="false">
           <taggedValue xmi:id="_gTejRllpEe-YrZ8AMy3HFg" tag="Comment" value=""/>
           <initialValue xsi:type="relational:TdExpression" xmi:id="_gTejR1lpEe-YrZ8AMy3HFg" language="COLUMN_DEF"/>
           <sqlDataType xmi:id="_gTejSFlpEe-YrZ8AMy3HFg" name="VARCHAR" numericPrecisionRadix="10" javaDataType="12"/>

@@ -1,0 +1,23 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_4=>" expression="row5.ID_VENTE +&quot;|&quot;+ row5.CD_PRODUIT +&quot;|&quot;+ row5.DT_VENTE +&quot;|&quot;+ row5.ID_CLIENT +&quot;|&quot;+ row5.QTE_VENTE +&quot;|&quot;+ row5.PRIX_ACHAT +&quot;|&quot;+ row5.PRIX_VENTE">
+  <variables name="row5.ID_VENTE" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row5.CD_PRODUIT" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row5.DT_VENTE" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row5.ID_CLIENT" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row5.QTE_VENTE" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row5.PRIX_ACHAT" value="null" talendType="id_BigDecimal" nullable="true"/>
+  <variables name="row5.PRIX_VENTE" value="null" talendType="id_BigDecimal" nullable="true"/>
+  <variables name="row5.NUM_LIGNE" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row6.ID_CLIENT" value="null" talendType="id_String"/>
+  <variables name="row6.NOM_CLIENT" value="null" talendType="id_String"/>
+  <variables name="row6.PREN_CLIENT" value="null" talendType="id_String"/>
+  <variables name="row6.CD_POSTAL_CLIENT" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row6.VILLE_CLIENT" value="null" talendType="id_String"/>
+  <variables name="row6.PAYS_CLIENT" value="null" talendType="id_String"/>
+  <variables name="row6.REGION_CLIENT" value="null" talendType="id_String"/>
+  <variables name="row6.CD_TYPE_CLIENT" value="null" talendType="id_String"/>
+  <variables name="row6.LB_NOM_FICHIER" value="null" talendType="id_String"/>
+  <variables name="row6.DT_INSERTION" value="null" talendType="id_Date"/>
+  <variables name="row6.BL_LIGNE_ACTIVE" value="0" talendType="id_Integer"/>
+  <variables name="row6.LB_JOB_NAME" value="null" talendType="id_String"/>
+</expression:EMFExpression>

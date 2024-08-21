@@ -7,7 +7,7 @@
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P-YhJFmKEe-YrZ8AMy3HFg" name="CD_PRODUIT" label="CD_PRODUIT" talendType="id_String"/>
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P-YhJVmKEe-YrZ8AMy3HFg" name="DT_VENTE" label="DT_VENTE" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P-YhJlmKEe-YrZ8AMy3HFg" name="ID_CLIENT" label="ID_CLIENT" talendType="id_String"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P-YhJ1mKEe-YrZ8AMy3HFg" name="QTE_CLIENT" label="QTE_CLIENT" length="-1" talendType="id_Integer"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P-YhJ1mKEe-YrZ8AMy3HFg" name="QTE_VENTE" label="QTE_VENTE" length="-1" talendType="id_Integer"/>
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P-YhKFmKEe-YrZ8AMy3HFg" name="PRIX_ACHAT" label="PRIX_ACHAT" length="-1" talendType="id_BigDecimal"/>
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P-YhKVmKEe-YrZ8AMy3HFg" name="PRIX_VENTE" label="PRIX_VENTE" length="-1" talendType="id_BigDecimal"/>
     </ownedElement>
